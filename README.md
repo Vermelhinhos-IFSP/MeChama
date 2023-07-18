@@ -6,3 +6,6 @@ No terminal:
 - venv\Scripts\Activate
 - pip install django
 - code .
+
+Para rodar:
+- python manage.py runserver
